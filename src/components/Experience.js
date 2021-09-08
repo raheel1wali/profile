@@ -22,6 +22,15 @@ const Experience = () => {
 				</div>
 				<div class="entry">
 					<div class="title">
+						<span>2021</span>
+					</div>
+					<div class="body">
+						<h4 class="mt-0">Python Advance Certification</h4>
+						<p>Aptech Garden Center Karachi </p>
+					</div>
+				</div>
+				<div class="entry">
+					<div class="title">
 						<span>2014 - 2017</span>
 					</div>
 					<div class="body">

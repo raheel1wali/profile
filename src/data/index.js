@@ -15,6 +15,7 @@ import _truckerhangout from "../assets/images/truckerhangout.com.jpg";
 import _paytradies from "../assets/images/paytradies.com.au.jpg";
 import _lensupstudio from "../assets/images/lensupstudio.com.jpg";
 import _tester1ibs from "../assets/images/tester1-ibs.innovocrete.com.jpg";
+import _logly from "../assets/images/logly.jpg";
 
 
 
@@ -38,6 +39,13 @@ export const PROTFOLIO_DATA = [
         title: "IBS Suite",
         text: "IBS Accounting Base Software",
         link: "http://tester1-ibs.innovocrete.com/"
+    },
+    {
+        image: _logly,
+        technology: "MERN STACK",
+        title: "Logly",
+        text: "Share Your Love for Animals - Love Logged And Organized!",
+        link: "https://logly.us/"
     },
     {
         image: _truckerhangout,

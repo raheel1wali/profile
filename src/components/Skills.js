@@ -43,8 +43,8 @@ const Skills = () => {
 					</div>
 				</div>
 
-				<div class="col-md-6">
-					{/* <!-- skill item --> */}
+				{/* <div class="col-md-6">
+					
 					<div class="skill-item">
 						<div class="skill-info clearfix">
 							<h4 class="float-left mb-3 mt-0">Flutter</h4>
@@ -54,25 +54,9 @@ const Skills = () => {
 							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90">
 							</div>
 						</div>
-						{/* <div class="spacer" data-height="50"></div> */}
+						
 					</div>
-				</div>
-
-				<div class="col-md-6">
-					{/* <!-- skill item --> */}
-					<div class="skill-item">
-						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">MySql / Mongodb</h4>
-							<span class="float-right">60%</span>
-						</div>
-						<div class="progress">
-							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="60">
-							</div>
-						</div>
-						{/* <div class="spacer d-md-none d-lg-none" data-height="50"></div> */}
-					</div>
-				</div>
-
+				</div> */}
 				<div class="col-md-6">
 					{/* <!-- skill item --> */}
 					<div class="skill-item">
@@ -91,6 +75,23 @@ const Skills = () => {
 					{/* <!-- skill item --> */}
 					<div class="skill-item">
 						<div class="skill-info clearfix">
+							<h4 class="float-left mb-3 mt-0">MySql / Mongodb</h4>
+							<span class="float-right">60%</span>
+						</div>
+						<div class="progress">
+							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="60">
+							</div>
+						</div>
+						{/* <div class="spacer d-md-none d-lg-none" data-height="50"></div> */}
+					</div>
+				</div>
+
+				
+
+				{/* <div class="col-md-6">
+					
+					<div class="skill-item">
+						<div class="skill-info clearfix">
 							<h4 class="float-left mb-3 mt-0">WordPress</h4>
 							<span class="float-right">70%</span>
 						</div>
@@ -99,10 +100,10 @@ const Skills = () => {
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 
-				<div class="col-md-6">
-					{/* <!-- skill item --> */}
+				{/* <div class="col-md-6">
+					
 					<div class="skill-item">
 						<div class="skill-info clearfix">
 							<h4 class="float-left mb-3 mt-0">Php / Laravel</h4>
@@ -113,7 +114,7 @@ const Skills = () => {
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 
 				<div class="col-md-6">
 					{/* <!-- skill item --> */}

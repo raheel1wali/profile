@@ -18,7 +18,7 @@ const Contact = () => {
                                 <i class="icon-phone"></i>
                                 <div class="details">
                                     <h5>Phone</h5>
-                                    <span>+92 0301-9133388 <br />+92 0312-3380821</span>
+                                    <span><a href="tel:2817388149">+1 281 (738) 8149</a></span>
                                 </div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@ const Contact = () => {
                                 <i class="icon-envelope"></i>
                                 <div class="details">
                                     <h5>Email address</h5>
-                                    <span>raheel1wali@gmail.com</span>
+                                    <span><a href="mailto:raheel2wali@gmail.com">raheel2wali@gmail.com</a></span>
                                 </div>
                             </div>
                         </div>
@@ -38,7 +38,17 @@ const Contact = () => {
                                 <i class="icon-location-pin"></i>
                                 <div class="details">
                                     <h5>Location</h5>
-                                    <span>Karachi, Pakistan</span>
+                                    <span>Houston, TX</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="contact-info">
+                                <i class="icon-globe"></i>
+                                <div class="details">
+                                    <h5>Profile Website</h5>
+                                    <span><a href="http://raheelwali.herokuapp.com">www.raheelwali.herokuapp.com</a></span>
                                 </div>
                             </div>
                         </div>
