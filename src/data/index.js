@@ -59,7 +59,7 @@ export const PROTFOLIO_DATA = [
         technology: "MERN Development",
         title: "Paytradies",
         text: "Pay Tradies eliminates any uncertainty or risk associated with sending and receiving payment. We have created a payment platform that allows Customers and Tradies to setup jobs with Milestone payments and ensure both parties are held accountable for the payment and delivery of services.",
-        link: "http://www.paytradies.com.au/"
+        link: "http://paytradies.com.au/"
     },
     {
         image: _lensupstudio,
