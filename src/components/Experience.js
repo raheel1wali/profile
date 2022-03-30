@@ -60,10 +60,19 @@ const Experience = () => {
 			<div class="timeline">
 				<div class="entry">
 					<div class="title">
-						<span>2019 - Present</span>
+						<span>2021 - Present</span>
 					</div>
 					<div class="body">
-						<h4 class="mt-0">Full-Stack developer</h4>
+						<h4 class="mt-0">MERN Full-Stack developer</h4>
+						<p>AFCA American Family Law</p>
+					</div>
+				</div>
+				<div class="entry">
+					<div class="title">
+						<span>2019 - 2021</span>
+					</div>
+					<div class="body">
+						<h4 class="mt-0">MERN Full-Stack developer</h4>
 						<p>Innovocrete (Pvt.) Ltd.</p>
 					</div>
 				</div>

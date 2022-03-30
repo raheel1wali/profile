@@ -1,5 +1,5 @@
 import React from "react";
-import RaheelCV from "../assets/images/RaheelUpdatedCv2021-mid.pdf";
+import RaheelCV from "../assets/images/RaheelCv2022.pdf";
 // import RaheelCV from "../assets/images/RaheelUpdatedCv2021.pdf";
 
 const Hero = () => {
@@ -8,7 +8,7 @@ const Hero = () => {
 		<section class="hero background parallax shadow-dark d-flex align-items-center" id="home" data-image-src="https://via.placeholder.com/900x600">
 			<div class="cta mx-auto mt-2">
 				<h1 class="mt-0 mb-4">I’m Raheel Wali<span class="dot"></span></h1>
-				<p class="mb-4">I'm full stack developer, passionate about Javascript (React, NodeJS, MERN stack development...) and with a mid level experience (python , django and cloud services).</p>
+				<p class="mb-4">I'm full stack developer, passionate about Javascript (React,Remix,Express, NodeJS,Monogodb MERN Full-stack development...) and with a mid level experience (cloud services).</p>
 				<a href="#works" class="btn btn-default btn-lg mr-3"><i class="icon-grid"></i>View Portfolio</a>
 				<div class="spacer d-md-none d-lg-none d-sm-none" data-height="10"></div>
 				<a href={RaheelCV} download  class="btn btn-border-light btn-lg"><i class="icon-cloud-download"></i>Download Resume</a>

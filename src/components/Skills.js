@@ -18,7 +18,7 @@ const Skills = () => {
 					<div class="skill-item">
 						<div class="skill-info clearfix">
 							<h4 class="float-left mb-3 mt-0">React</h4>
-							<span class="float-right">80%</span>
+							<span class="float-right">90%</span>
 						</div>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="85">
@@ -32,7 +32,7 @@ const Skills = () => {
 					{/* <!-- skill item --> */}
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">MERN</h4>
+							<h4 class="float-left mb-3 mt-0">MERN Stack</h4>
 							<span class="float-right">70%</span>
 						</div>
 						<div class="progress">
@@ -61,8 +61,8 @@ const Skills = () => {
 					{/* <!-- skill item --> */}
 					<div class="skill-item">
 						<div class="skill-info clearfix">
-							<h4 class="float-left mb-3 mt-0">Python / Django</h4>
-							<span class="float-right">70%</span>
+							<h4 class="float-left mb-3 mt-0">Flutter</h4>
+							<span class="float-right">30%</span>
 						</div>
 						<div class="progress">
 							<div class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="70">
@@ -116,8 +116,8 @@ const Skills = () => {
 					</div>
 				</div> */}
 
-				<div class="col-md-6">
-					{/* <!-- skill item --> */}
+				{/* <div class="col-md-6">
+					
 					<div class="skill-item">
 						<div class="skill-info clearfix">
 							<h4 class="float-left mb-3 mt-0">Data Science / Data Analysis</h4>
@@ -128,7 +128,7 @@ const Skills = () => {
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> */}
 
 			</div>
 		</section>

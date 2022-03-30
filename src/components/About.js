@@ -1,6 +1,6 @@
 import React from "react";
 import { PROFILE_DATA } from "../data/index";
-import RaheelCV from "../assets/images/RaheelUpdatedCv2021-mid.pdf";
+import RaheelCV from "../assets/images/RaheelCv2022.pdf";
 // import RaheelCV from "../assets/images/RaheelUpdatedCv2021.pdf";
 
 const About = () => {
@@ -16,12 +16,12 @@ const About = () => {
 				</div>
 				<div class="col-md-9">
 					<h2 class="mt-4 mt-md-0 mb-4">Hello,</h2>
-					<p class="mb-0">My name is Raheel Wali, I'm a Full-stack developer and holds five years of working experience in web development. I can proficiently work at Single page applications, Javascript libraries and frameworks, Node, Python, Django, and building Restful API. I'm also passionate about suggesting creative ideas, design application, and support cloud hostings services such as Google Cloud, Digital Ocean, and Heroku.</p>
+					<p class="mb-0">My name is Raheel Wali, I'm a Mern Full-stack developer and holds five years of working experience in web development. I can proficiently work at Single page applications, Javascript libraries and frameworks, Node, and building Restful API. I'm also passionate about suggesting creative ideas, design application, and support cloud hostings services such as Google Cloud, Digital Ocean, and Heroku.</p>
 					<div class="row my-4">
 						<div class="col-md-6">
 							<p class="mb-2">Name: <span class="text-dark">Raheel Wali</span></p>
 							<p class="mb-2">Birthday: <span class="text-dark">22 April, 1995</span></p>
-							<p class="mb-2">Phone: <span class="text-dark"><a href="tel:2817388149"> +1 281 (738) 8149 </a></span></p>
+							<p class="mb-2">Phone: <span class="text-dark"><a href="tel:2817388149"> +1 832 (945) 8990</a></span></p>
 						</div>
 						<div class="col-md-6 mt-2 mt-md-0 mt-sm-2">
 							<p class="mb-2">Location: <span class="text-dark">Houston, TX</span></p>

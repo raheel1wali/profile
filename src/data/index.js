@@ -1,5 +1,5 @@
-import profileImg from "../assets/images/raheelprofile.jpg";
-import profileImg2 from "../assets/images/raheelprofile2.jpg";
+import profileImg from "../assets/images/raheelprofile.jpeg";
+import profileImg2 from "../assets/images/raheelprofile.jpeg";
 
 
 import _5plusimmo from "../assets/images/5plus.immo.jpg";
